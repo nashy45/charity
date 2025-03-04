@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Charity Platform</title>
-    <link rel="stylesheet" href="styless.css">
+    <link rel="stylesheet" href="home.css">
+    
 </head>
 <body>
     <!-- Navigation Bar -->

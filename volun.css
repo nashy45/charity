@@ -3,15 +3,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #e3e1e1f9;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: url(C:\xampp\htdocs\AI\pics\volunteer-2055010_1280img.png);
+    
 }
 
 .container {
